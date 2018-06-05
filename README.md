@@ -10,6 +10,6 @@ If you're on OSX, you're on your own. I've never touched a Mac, sorry.
 ### Installing
 Seriously, just run make and then run the compiled executable
 ## Authors
-**Omid Vaziri** - *Initial work*
+**Omid Vaziri** - *Initial work* - [vaziridev](https://gitlab.com/vaziridev)
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
