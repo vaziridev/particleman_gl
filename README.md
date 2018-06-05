@@ -1,5 +1,5 @@
 # particleman_gl
-This is an assignment completed for an Intro to C college course I took. The requirement was to create any particle effect using a provided OpenGL boilerplate, in order to demonstrate understanding of memory management using a dynamically allocated linked list.
+This is an assignment completed for an Intro to C course I took in college. The requirement was to create any particle effect using a provided OpenGL boilerplate, in order to demonstrate understanding of memory management using a dynamically allocated linked list.
 ## Getting Started
 Not much to it, clone the repo and run make.
 ### Prerequisites
