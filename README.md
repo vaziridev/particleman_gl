@@ -4,8 +4,11 @@ This is an assignment completed for an Intro to C college course I took. The req
 Not much to it, clone the repo and run make.
 ### Prerequisites
 OpenGL, freeglut, gcc, make.
+
 If you're on Linux, you're likely good to go.
+
 If you're on Windows, you'll have to install gcc, make, and download OpenGL + freeglut and change the Makefile to link against them.
+
 If you're on OSX, you're on your own. I've never touched a Mac, sorry.
 ### Installing
 Seriously, just run make and then run the compiled executable
