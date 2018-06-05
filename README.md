@@ -12,4 +12,4 @@ Seriously, just run make and then run the compiled executable
 ## Authors
 * **Omid Vaziri** - *Initial work*
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
